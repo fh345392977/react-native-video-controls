@@ -1335,6 +1335,7 @@ const styles = {
             top: 8, left: 8,
             height: 12,
             width: 12,
+            padding: 8
         },
     })
 };
